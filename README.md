@@ -6,9 +6,8 @@
 [![](https://img.shields.io/badge/Gmail-mrizalpahlevi372%40gmail.com-red)](mailto:mrizalpahlevi372@gmail.com)
 [![](https://img.shields.io/badge/Telegram-%40RizalPahlevi-blue)](https://t.me/rizalpahlevi)
 [![](https://img.shields.io/badge/Twitter-%40RizalPahlevi-blue)](https://twitter.com/rizalpahlevii)
-[![](https://img.shields.io/badge/Website-%Rizal.dev-green)](https://rizal.dev)
 [![GitHub followers](https://img.shields.io/github/followers/rizalpahlevii.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rizalpahlevii?tab=followers)
-
+[![](https://img.shields.io/badge/Website-%Rizal.dev-green)](https://rizal.dev)
 
 👨‍💻 18 Years Junior Developer  
 👨‍🎓 Studying Computer Science here in Indonesia  
