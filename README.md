@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Gmail-mrizalpahlevi372%40gmail.com-red)](mailto:mrizalpahlevi372@gmail.com)
 [![](https://img.shields.io/badge/Telegram-%40RizalPahlevi-blue)](https://t.me/rizalpahlevi)
 [![GitHub followers](https://img.shields.io/github/followers/rizalpahlevii.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rizalpahlevii?tab=followers)
-![Tweeting](https://img.shields.io/twitter/https://twitter.com/rizalpahlevii/http/shields.io.svg?style=social)
+![Tweeting](https://img.shields.io/twitter/izalpahlevii/http/shields.io.svg?style=social)
 👨‍💻 18 Years Junior Developer  
 👨‍🎓 Studying Computer Science here in Indonesia  
 Here are some ideas to get you started:
