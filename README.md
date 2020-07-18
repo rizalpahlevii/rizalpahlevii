@@ -1,8 +1,14 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true">
 
-<!--
-**rizalpahlevii/rizalpahlevii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Rizal Pahlevi :lemon:
 
+[![](https://img.shields.io/badge/LinkedIn-rizalpahlevii-blue)](https://www.linkedin.com/in/rizalpahlevii/)
+[![](https://img.shields.io/badge/Gmail-mrizalpahlevi372%40gmail.com-red)](mailto:mrizalpahlevi372@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40RizalPahlevi-blue)](https://t.me/rizalpahlevi)
+  
+  
+👨‍💻 18 Years Junior Developer  
+👨‍🎓 Studying Computer Science here in Indonesia  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
