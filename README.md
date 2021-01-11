@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizalpahlevii&layout=compact)](https://github.com/rizalpahlevii/rizalpahlevii)
 
 
