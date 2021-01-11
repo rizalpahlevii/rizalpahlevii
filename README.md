@@ -4,7 +4,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true&hide_border=true)
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalpahlevii&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizalpahlevii)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### You can find in me in the web 🌍
