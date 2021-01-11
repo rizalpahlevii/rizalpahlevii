@@ -3,13 +3,13 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiskiapp&label=Profile%20views&color=0e75b6&style=flat" alt="hiskiapp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizalpahlevii&label=Profile%20views&color=0e75b6&style=flat" alt="rizalpahlevii" /> </p>
 
 
 👨‍💻 18 Years Junior Developer  
 👨‍🎓 Studying Computer Science here in Indonesia  
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on Laptop
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Web Development Projects
