@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true&hide_border=true)
 
 
 <h3 align="left">Connect with me:</h3>
