@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Hiskia Anggi Puji Pratama</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Rizal Pahlevi</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiskiapp&label=Profile%20views&color=0e75b6&style=flat" alt="hiskiapp" /> </p>
+
 
 👨‍💻 18 Years Junior Developer  
 👨‍🎓 Studying Computer Science here in Indonesia  
