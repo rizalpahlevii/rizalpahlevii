@@ -1,6 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true">
+
 
 ### Hi there I'm Rizal Pahlevi :lemon:
+![github stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true)
 
 [![](https://img.shields.io/badge/LinkedIn-rizalpahlevii-blue)](https://www.linkedin.com/in/rizalpahlevii/)
 [![](https://img.shields.io/badge/Gmail-mrizalpahlevi372%40gmail.com-red)](mailto:mrizalpahlevi372@gmail.com)
