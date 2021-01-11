@@ -4,16 +4,6 @@
 
 
 
-👨‍💻 18 Years Junior Developer  
-👨‍🎓 Studying Computer Science here in Indonesia  
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on Laptop
-- 🌱 I’m currently learning Full Stack Web Development
-- 👯 I’m looking to collaborate on Web Development Projects
-- 💬 Ask me about anything. I will try to help you as much as I can
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rizalpahlevi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rizalpahlevii" height="30" width="40" /></a>
