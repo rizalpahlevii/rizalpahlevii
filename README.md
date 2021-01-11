@@ -1,7 +1,6 @@
 
-
-### Hi there I'm Rizal Pahlevi :lemon:
-![github stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true)
+<h1 align="center">Hi 👋, I'm Hiskia Anggi Puji Pratama</h1>
+<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
 👨‍💻 18 Years Junior Developer  
 👨‍🎓 Studying Computer Science here in Indonesia  
