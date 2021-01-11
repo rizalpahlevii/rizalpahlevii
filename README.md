@@ -19,4 +19,4 @@
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/rizalpahlevi/
 [linkedin]: https://www.linkedin.com/in/rizalpahlevii/
-[medium]: https://medium.com/@rizalpahlevi/
+[medium]: https://medium.com/@rizalpahlevii/
