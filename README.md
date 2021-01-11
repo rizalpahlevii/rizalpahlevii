@@ -3,12 +3,6 @@
 ### Hi there I'm Rizal Pahlevi :lemon:
 ![github stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true)
 
-[![](https://img.shields.io/badge/LinkedIn-rizalpahlevii-blue)](https://www.linkedin.com/in/rizalpahlevii/)
-[![](https://img.shields.io/badge/Gmail-mrizalpahlevi372%40gmail.com-red)](mailto:mrizalpahlevi372@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40RizalPahlevi-blue)](https://t.me/rizalpahlevi)
-[![](https://img.shields.io/badge/Twitter-%40RizalPahlevii-blue)](https://twitter.com/rizalpahlevii)
-[![GitHub followers](https://img.shields.io/github/followers/rizalpahlevii.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rizalpahlevii?tab=followers)
-
 👨‍💻 18 Years Junior Developer  
 👨‍🎓 Studying Computer Science here in Indonesia  
 Here are some ideas to get you started:
@@ -17,3 +11,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about anything. I will try to help you as much as I can
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/rizalpahlevi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hiskiapp" height="30" width="40" /></a>
+<a href="https://twitter.com/rizalpahlevii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hiskiapp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rizalpahlevii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hiskiapp" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10309557" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13195777" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rizalpahlevi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hzkyyx" height="30" width="40" /></a>
+<a href="https://medium.com/@rizalpahlevii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hiskiapp" height="30" width="40" /></a>
+
+</p>
