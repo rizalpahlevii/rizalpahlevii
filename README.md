@@ -4,8 +4,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizalpahlevii&layout=compact)](https://github.com/rizalpahlevii/rizalpahlevii)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalpahlevii&show_icons=true&locale=en&layout=compact" alt="rizalpahlevii" /></p>
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
