@@ -3,10 +3,10 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
 <a href="https://github.com/rizalpahlevii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizalpahlevii&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalpahlevii&hide=html&show_icons=true&locale=en&layout=compact" alt="rizalpahlevii" />
 </a>
 <a href="https://github.com/rizalpahlevii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizalpahlevii&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizalpahlevii&show_icons=true&hide_border=true&count_private=true)
